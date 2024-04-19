@@ -1,1 +1,7 @@
-a = 1 + 2;
+function minhaFuncao(){
+    document.write("que sono");
+}
+
+function tamanhoFonte(){
+    document.getElementById('texto').style.fontSize='30px';
+}
